@@ -193,7 +193,7 @@ F1 race data columns:
 
 
 ## 🛠️ Future Improvements
-
+- Include Qualifying data
 - Add tire strategy and compound data
 - Include live race data (lap-by-lap)
 - Implement XGBoost for comparison
