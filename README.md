@@ -144,6 +144,8 @@ The model uses **32 features** across 7 categories:
 ## 📈 Example Output
 ### 🏁 PREDICTED RACE RESULTS - TOP 10
 
+![Prediction](1.png)
+![Prediction](2.png)
 ---
 
 
